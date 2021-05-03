@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableListEvents</string>
+    <string name="collapse">Collapse %s</string>
+    <string name="expanding">Expanding %s</string>
+</resources>
